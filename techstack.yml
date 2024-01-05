@@ -1,7 +1,8 @@
 repo_name: TawandaMavondo/Machine-Learning
 report_id: 8c82f4c01ce32f23d80427cc9218042c
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:10:13+00:00'
+timestamp: '2024-01-05T08:27:05+00:00'
 requested_by: TawandaMavondo
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/Machine-Learning
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -25,4 +27,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/Machine-Learning
   detection_source: Repo Metadata
